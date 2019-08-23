@@ -1,31 +1,44 @@
-<?XML version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-    <key>items</key>
-    <array>
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0"><dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
         <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>http://download.bxwlkj.com/app/hhszmj-8-2.ipa</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.szqp.szqp</string>
-                <key>bundle-version</key>
-                <string>1.0</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>苏州猴猴麻将</string>
-            </dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string><![CDATA[https://ali-fir-pro-binary.fir.im/f3615810c35a418344c3e1960e4036c4a4affd93?auth_key=1566583713-0-0-c17b64121fcd34b89654aee9632fd64f]]></string>
         </dict>
-    </array>
-</dict>
-</plist>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <integer>0</integer>
+          <key>url</key>
+          <string><![CDATA[https://ali-fir-pro-icon.fir.im/90dbbc6d8f11c5168f5e7214ac269ac2b2057e3a?auth_key=1566583713-0-0-1733a00c877fb6e590b1a17c8ba9b368]]></string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string><![CDATA[https://ali-fir-pro-icon.fir.im/90dbbc6d8f11c5168f5e7214ac269ac2b2057e3a?auth_key=1566583713-0-0-1733a00c877fb6e590b1a17c8ba9b368]]></string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.szqp.szqp</string>
+        <key>bundle-version</key>
+        <string><![CDATA[1.0.6]]></string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string><![CDATA[猴猴麻将]]></string>
+      </dict>
+    </dict>
+  </array>
+</dict></plist>
